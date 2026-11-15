@@ -6,6 +6,7 @@ Spēli var spēlēt ar bultiņām vai WASD
 ## Spēli veidojuši 
 Kristaps Vanags(spēles mehānika), Einards Maļeckis(grafika)
 
+## Links
 Itch.io links: https://kristapsvanags.itch.io/srkocii 
 
 
