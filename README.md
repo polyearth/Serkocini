@@ -3,7 +3,7 @@ Spēle, kur ir limitēts sērkociņu skaits un izmanotot tos tev ir iespēja ap 
 
 Spēli var spēlēt ar bultiņām vai WASD
 
-#Spēli veidojuši 
+## Spēli veidojuši 
 Kristaps Vanags(spēles mehānika), Einards Maļeckis(grafika)
 
 Itch.io links: https://kristapsvanags.itch.io/srkocii 
