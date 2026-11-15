@@ -1,2 +1,2 @@
 # Serkocini
-Spēle, kur ir limitēts sērkociņu skaits un izmanotot tos tev ir iespēja ap sevi apspīdināt lielāku gaismas radiusu, tādejādi vieglāk pārvietojoties pa karti. Spēlētājam vajag iziet visas trīs istabas, kurās ir jāsavāc sērkociņi. Spēles laiks ir 4min un spēlētājam spēles sākumā tiek iedoti 10 sērkociņi.
+Spēle, kur ir limitēts sērkociņu skaits un izmanotot tos tev ir iespēja ap sevi apspīdināt lielāku gaismas radiusu, tādejādi vieglāk pārvietojoties pa karti. Spēlētājam vajag iziet visas trīs istabas, kurās ir jāsavāc sērkociņi. Spēles laiks ir 4min un spēlētājam spēles sākumā tiek iedoti 10 sērkociņi. Lai izmanotu sērkociņu jāspiež poga Q, un tad gaismas radiuss palielinās no 70pixeļiem uz 120pixeļiem.
